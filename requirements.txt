@@ -1,12 +1,13 @@
-streamlit==0.90.0
+streamlit
 altair
 Pillow
-plotly==5.3.1
+plotly
 pandas
 matplotlib
 numpy
 scikit-learn
 streamlit_extras==0.2.4
 requests==2.26.0
-opencv-contrib-python==4.5.3.56
+opencv-python
+opencv-contrib-python
 
