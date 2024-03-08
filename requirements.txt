@@ -1,0 +1,12 @@
+streamlit
+altair
+Pillow
+plotly==5.3.1
+pandas
+matplotlib
+numpy
+scikit-learn
+opencv-python
+streamlit_extras==0.2.4
+requests==2.26.0
+
