@@ -100,7 +100,7 @@ def main():
             )
 
         # Insert an image from a local file
-        team_image = "images/project members.png"
+        team_image = "Images/DA Project Team.png"
         st.image(team_image, use_column_width=True)
 
 
