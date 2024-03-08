@@ -54,6 +54,8 @@ streamlit run WEB/app.py
 
 ### Running Software
 
+Open your terminal and do:
+
 1. Accessing the image:
 
 Copy the relative path of the image, you are going to use
