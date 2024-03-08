@@ -4,14 +4,11 @@
 
 Welcome to the Color Detection application! This app provides accurate distribution of colors of a image , provided by user.
 
-## Preview
-
-![Color Detection App]
 ## PC View - 
-<img src="images/weather site preview.png">
+<img src="Images/color-pc.png">
 
 ## Mobile View - 
-<img src="images/weather site preview mobile.png.jpg">
+<img src="Images/color-mobile.png">
 
 ## Getting Started
 
