@@ -49,7 +49,7 @@ streamlit run WEB/app.py
 ## Local URL: http://localhost:8501
 ```
 
-### Running Software
+## Running Software
 
 Open your terminal and do:
 
