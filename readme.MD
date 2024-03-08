@@ -24,13 +24,13 @@ Make sure you have Python installed on your machine.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/i-am-faith/Color-Detection-DA.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd your-repository
+    cd Color-Detection-DA
     ```
 
 3. Install dependencies:
@@ -44,7 +44,7 @@ Make sure you have Python installed on your machine.
 Open your terminal and run the following command:
 
 ```bash
-streamlit run main.py
+streamlit run WEB/app.py
 
 
 ## Access the app locally through the following URL:
