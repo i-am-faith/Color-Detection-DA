@@ -1,4 +1,4 @@
-streamlit==1.27.0
+streamlit==0.90.0
 altair
 Pillow
 plotly==5.3.1
