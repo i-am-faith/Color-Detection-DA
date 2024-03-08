@@ -5,10 +5,10 @@
 Welcome to the Color Detection application! This app provides accurate distribution of colors of a image , provided by user.
 
 ## PC View - 
-<img src="images/weather site preview.png">
+<img src="Images/color-pc.png">
 
 ## Mobile View - 
-<img src="images/weather site preview mobile.png.jpg">
+<img src="Images/color-mobile.png">
 
 ## Getting Started
 
@@ -21,13 +21,13 @@ Make sure you have Python installed on your machine.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/i-am-faith/Color-Detection-DA.git
+    git clone https://github.com/your-username/your-repository.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd Color-Detection-DA
+    cd your-repository
     ```
 
 3. Install dependencies:
@@ -41,7 +41,7 @@ Make sure you have Python installed on your machine.
 Open your terminal and run the following command:
 
 ```bash
-streamlit run WEB/app.py
+streamlit run main.py
 
 
 ## Access the app locally through the following URL:
@@ -49,9 +49,7 @@ streamlit run WEB/app.py
 ## Local URL: http://localhost:8501
 ```
 
-## Running Software
-
-Open your terminal and do:
+### Running Software
 
 1. Accessing the image:
 
