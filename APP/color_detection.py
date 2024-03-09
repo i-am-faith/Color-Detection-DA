@@ -6,7 +6,7 @@ import pandas as pd
 
 #image usage - copy the relative path and paste to img_path
 
-img_path = r'Images\Image2-KIIT.jpg'
+img_path = r'Images\University-KIIT.jpg'
 img = cv2.imread(img_path)
 
 # declaring global variables (are used later on)
