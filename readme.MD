@@ -10,6 +10,9 @@ Welcome to the Color Detection application! This app provides accurate distribut
 ## Mobile View - 
 <img src="Images/color-mobile.png">
 
+## App View - 
+<img src="Images\App preview.jpg">
+
 ## Getting Started
 
 ### Prerequisites
