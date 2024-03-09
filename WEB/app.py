@@ -56,6 +56,8 @@ def color_analysis(img):
     df = pd.DataFrame({'labels': hex_colors, 'counts': counts.values()})
     return df
 
+# ...
+
 def main():
     st.title("Image Colour Analysis") 
     menu = ["Home", "About", "Contact Us"]
@@ -79,17 +81,38 @@ def main():
             
             p01 = px.pie(pix_df, names='labels', values='counts', color='labels')
             st.plotly_chart(p01)
-            
+
+            # # Display color codes with colors in a box
+            # st.subheader("Color Codes with Colors:")
+            # for color_code in pix_df['labels']:
+            #     st.markdown(f"<div style='background-color: {color_code}; width: 50px; height: 50px; display: inline-block; margin: 5px;'></div>", unsafe_allow_html=True)
+            #     st.write(color_code)
+
+            # Display color codes with colors in a box
+            # st.subheader("Color Codes with Colors:")
+            # color_boxes = ''.join([f"<div style='background-color: {color_code}; width: 50px; height: 50px; display: inline-block; margin: 5px;'></div>" for color_code in pix_df['labels']])
+            # color_codes = ''.join([f"{color_code}" for color_code in pix_df['labels']])
+            # st.markdown(color_boxes, unsafe_allow_html=True)
+            # st.write("\n\n\n\n")  # Add some space
+            # st.write(color_codes)
+
+
+            # Display color codes with colors in a box
+            st.subheader("Color Codes With Real Colors:")
+            color_boxes_and_codes = ''.join([f"<div style='background-color: {color_code}; width: 50px; height: 50px; display: inline-block; margin: 5px;'></div> {color_code}<br>" for color_code in pix_df['labels']])
+            st.markdown(color_boxes_and_codes, unsafe_allow_html=True)
+
+
             col1, col2 = st.columns([1, 2])
             with col1:
-                st.write(image_pixel)
-                st.info("Color Distribution")
-                st.write(pix_df)
+                st.subheader("Color Distribution: ")
+                st.write(pix_df[['labels', 'counts']])
                 
             with col2:
                 p02 = px.bar(pix_df, x='labels', y='counts', color='labels')
                 st.plotly_chart(p02)
-                
+
+
     elif choice == "About": 
         st.title("About Us")
 
@@ -100,7 +123,7 @@ def main():
             )
 
         # Insert an image from a local file
-        team_image = "Images/DA Project Team.png"
+        team_image = "images/project members.png"
         st.image(team_image, use_column_width=True)
 
 
