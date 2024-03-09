@@ -1,0 +1,551 @@
+{
+    "testcases": [
+        {
+            "url": "https://color-detection-da.streamlit.app/",
+            "response": {
+                "cod": "50",
+                "error": 0,
+                "cnt": 10,
+                "list": [
+                    {
+                        "image": "image1.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#0d1725": 18.1,
+                        "#5d5bd1": 24.8,
+                        "#222696": 22.8,
+                        "#15a969": 21.1,
+                        "#b2b3e5": 13.1
+                    },
+                    {
+                        "image": "image2.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#ca7731": 29.5,
+                        "#6d6c6c": 29.1,
+                        "#1a1919": 26,
+                        "#b9b0ac": 10.3,
+                        "#484645": 5.12
+                    },
+                    {
+                        "image": "image3.png",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#666a7a": 38.6,
+                        "#9aa695": 31.6,
+                        "#161519": 19.1,
+                        "#3e444f": 6.57,
+                        "#36c7d3": 4.1
+                    },
+                    {
+                        "image": "image4.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#8ee5f1": 24.9,
+                        "#2a425e": 24.6,
+                        "#508f8e": 18,
+                        "#31b6e6": 17.2,
+                        "#7bb5b4": 15.3
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#1c2eae": 34.1,
+                        "#6b3505": 29.1,
+                        "#241907": 14.2,
+                        "#d3bcb6": 13.4,
+                        "#b46e0b": 9.21
+                    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image6.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image7.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image8.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image9.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image10.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image11.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image12.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image13.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image14.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image5.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#112233": 14.3,
+                        "#445566": 21.8,
+                        "#778899": 19.0,
+                        "#aabbcc": 25.5,
+                        "#ddeeff": 19.4
+                    },
+                    {
+                        "image": "image6.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#050a07": 90.6,
+                        "#565357": 4.8,
+                        "#111948": 2.52,
+                        "#9b9ba5": 1.24,
+                        "#1e37b3": 0.839
+                    },
+                    {
+                        "image": "image7.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#334f3c": 22.5,
+                        "#5f7d65": 21.8,
+                        "#0f53a8": 20.7,
+                        "#e5dbcf": 18.4,
+                        "#a4b29d": 16.7
+                    },
+                    {
+                        "image": "image8.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#1f2923": 36.6,
+                        "#2759e1": 33.1,
+                        "#3a402c": 16.1,
+                        "#0f1915": 9.26,
+                        "#122d84": 4.95
+                    },
+                    {
+                        "image": "image9.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#1041d1": 38.2,
+                        "#d2d1c5": 24.9,
+                        "#66625d": 15.2,
+                        "#97958b": 13.5,
+                        "#19181c": 8.24
+                    },
+                    {
+                        "image": "image10.jpg",
+                        "type": "distribution",
+                        "method": "percentage",
+                        "#171318": 31.6,
+                        "#bdb2a6": 28.4,
+                        "#718c8e": 17.6,
+                        "#ddd6ce": 12.1,
+                        "#605c49": 10.3
+                    }
+                ]
+            }
+        }
+    ]
+}
