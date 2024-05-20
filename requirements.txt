@@ -5,6 +5,7 @@ plotly
 pandas
 matplotlib
 numpy
+seaborn
 scikit-learn
 streamlit_extras
 requests
