@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Color Detection application! This app provides accurate distribution of colors of a image , provided by user.
+Welcome to the Color Detection application! This app provides accurate distribution of colors of a image provided by user.
 
 ## PC View - 
 <img src="Images/color-pc.png">
