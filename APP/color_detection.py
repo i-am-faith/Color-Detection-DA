@@ -2,6 +2,7 @@
 
 import cv2
 import pandas as pd
+import numpy as np
 
 
 #image usage - copy the relative path and paste to img_path
