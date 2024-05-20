@@ -1,1 +1,0 @@
-KIIT-Image2.jpg
